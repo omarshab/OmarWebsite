@@ -1,0 +1,31 @@
+.myJumbo {
+    background-color:peachpuff;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+  background-image: url('./assets/engineering.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.myCont{
+ display: flex;
+ justify-content: center;
+}
+
+.myCard{
+    display:flex;
+ width:75%;
+ height:auto;
+ background-color: antiquewhite;
+}
+
+.myImg{
+    display: flex;
+    justify-self: center;
+    align-self: center;
+    width:500px;
+    height:auto;
+}
